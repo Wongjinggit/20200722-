@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1573984341 source:d:\codebocksexercises\experiment9_studentscoreadministrationsystemv5.0_by190320113\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1573984341 source:c:\users\86135\desktop\学习\2019秋季学期\c语言\190320113_王英杰_实验作业九\experiment9_studentscoreadministrationsystemv5.0_by190320113\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
